@@ -31,6 +31,9 @@
 // import interface_and_type from './topics/interface_and_type';
 // interface_and_type()
 
-import Class_func from "./topics/class_function";
+// import Class_func from "./topics/function";
 
-Class_func()
+// Class_func()
+
+import Class_Ob from "./topics/class_object";
+Class_Ob()
